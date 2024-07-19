@@ -1,6 +1,9 @@
 # warmindo-dashboard
 ## Project Overview
 The Warmindo Sales Dashboard project **aims to analyze and visualize sales data** from a Warung Makan Indomie (Warmindo) for the year 2022. The primary objective is **to provide insights into sales performance, customer preferences, and operational efficiency.**
+## Tools Used
+1. Google Looker Studio
+2. Microsoft Excel
 ## Data Overview
 The data used in this dashboard covers Warmindo sales from January to August 2022. The main
 data elements analyzed include:
